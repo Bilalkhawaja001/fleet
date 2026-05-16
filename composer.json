@@ -83,6 +83,9 @@
         },
         "platform": {
             "php": "8.3.30"
+        },
+        "audit": {
+            "block-insecure": false
         }
     },
     "minimum-stability": "stable",
